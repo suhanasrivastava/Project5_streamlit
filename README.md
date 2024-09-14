@@ -1,1 +1,1 @@
-# Project5_streamlit
+The Telecom Customer Satisfaction dataset offers a comprehensive look into customer satisfaction across multiple telecom companies, including industry leaders such as Apple and Samsung. This dataset is meticulously curated to analyze various aspects of customer engagement, experience, and other critical features impacting overall satisfaction. It serves as a valuable resource for researchers, analysts, and businesses aiming to understand and improve customer satisfaction in the telecommunications sector
